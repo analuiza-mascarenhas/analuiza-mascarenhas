@@ -1,6 +1,6 @@
 <!-- Banner de Topo -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b4b,2e2a72,6b21a8&height=180&section=header&text=Ana%20Luiza%20Mascarenhas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Engenharia%20da%20Computa%C3%A7%C3%A3o%20%7C%20PUC%20Minas&descAlignY=58&descSize=16&v=2" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b4b,2e2a72,6b21a8&height=180&section=header&text=Ana%20Luiza%20Mascarenhas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Engenharia%20da%20Computa%C3%A7%C3%A3o%20%7C%20PUC%20Minas&descAlignY=58&descSize=16&v=3" />
 </div>
 
 <!-- Subtítulo Animado -->
@@ -9,10 +9,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Construindo+minha+trajet%C3%B3ria+na+tecnologia+%F0%9F%9A%80;Algoritmos%2C+Estruturas+de+Dados+e+Desenvolvimento;Em+busca+da+minha+primeira+oportunidade+na+%C3%A1rea+%F0%9F%92%BC" alt="Typing SVG" />
   </a>
 </p>
+
 <!-- Badges de Status -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=analuiza-mascarenhas&color=7b61ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/PUC%20Minas-Engenharia%20da%20Computa%C3%A7%C3%A3o-7b61ff?style=for-the-badge" alt="Curso" />
+  <img src="https://img.shields.io/badge/PUC%20Minas-Engenharia%20da%20Computação-7b61ff?style=for-the-badge" alt="Curso" />
 </p>
 
 <br>
@@ -48,6 +49,8 @@
 | :--- | :--- | :---: |
 | **[estacionamento-inteligente](https://github.com/analuiza-mascarenhas/estacionamento-inteligente)** | Sistema de monitoramento de vagas em tempo real com IoT (ESP32/Arduino) e aplicativo mobile (Projeto TI1 - PUC Minas). | `C++` `IoT` `App Inventor` |
 
+---
+
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
@@ -70,5 +73,5 @@
 
 <!-- Rodapé -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b4b,2e2a72,6b21a8&height=100&section=footer" />
 </div>
