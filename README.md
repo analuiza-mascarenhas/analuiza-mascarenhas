@@ -47,13 +47,7 @@
 
 | Projeto / Repositório | Descrição | Tecnologias |
 | :--- | :--- | :---: |
-| **[Nome do Repositório 1](https://github.com/analuiza-mascarenhas)** | Exercícios e implementações de estruturas de dados, ponteiros e algoritmos. | `C` |
 | **[estacionamento-inteligente](https://github.com/analuiza-mascarenhas/estacionamento-inteligente)** | Sistema de monitoramento de vagas em tempo real com IoT (ESP32/Arduino) e aplicativo mobile (Projeto TI1 - PUC Minas). | `C++` `IoT` `App Inventor` |
-| **[Nome do Repositório 3](https://github.com/analuiza-mascarenhas)** | Aplicações web, modelagem relacional e consultas SQL. | `HTML` `CSS` `SQL` |
-
-> *💡 Dica: você pode atualizar o "Repositório 1" e o "Repositório 3" depois caso crie novos repositórios para essas matérias!*
-
----
 
 ### 📊 Estatísticas no GitHub
 
