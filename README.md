@@ -1,15 +1,14 @@
 <!-- Banner de Topo -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ana%20Luiza%20Mascarenhas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Engenharia%20da%20Computa%C3%A7%C3%A3o%20%7C%20PUC%20Minas&descAlignY=58&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b26,4c1d95,7b61ff&height=180&section=header&text=Ana%20Luiza%20Mascarenhas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Engenharia%20da%20Computa%C3%A7%C3%A3o%20%7C%20PUC%20Minas&descAlignY=58&descSize=16" />
 </div>
 
 <!-- Subtítulo Animado -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Construindo+minha+trajet%C3%B3ria+na+tecnologia+%F0%9F%9A%80;Algoritmos%2C+Estruturas+de+Dados+e+Desenvolvimento;Em+busca+da+minha+primeira+oportunidade+na+%C3%A1rea+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Construindo+minha+trajet%C3%B3ria+na+tecnologia+%F0%9F%9A%80;Algoritmos%2C+Estruturas+de+Dados+e+Desenvolvimento;Em+busca+da+minha+primeira+oportunidade+na+%C3%A1rea+%F0%9F%92%BC" alt="Typing SVG" />
   </a>
 </p>
-
 <!-- Badges de Status -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=analuiza-mascarenhas&color=7b61ff&style=for-the-badge" alt="Profile Views" />
