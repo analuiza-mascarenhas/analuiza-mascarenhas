@@ -1,6 +1,6 @@
 <!-- Banner de Topo -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b26,4c1d95,7b61ff&height=180&section=header&text=Ana%20Luiza%20Mascarenhas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Engenharia%20da%20Computa%C3%A7%C3%A3o%20%7C%20PUC%20Minas&descAlignY=58&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b4b,2e2a72,6b21a8&height=180&section=header&text=Ana%20Luiza%20Mascarenhas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Engenharia%20da%20Computa%C3%A7%C3%A3o%20%7C%20PUC%20Minas&descAlignY=58&descSize=16" />
 </div>
 
 <!-- Subtítulo Animado -->
